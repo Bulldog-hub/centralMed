@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
     <head>
         <meta charset="utf-8">
         <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -18,7 +18,7 @@
         <link rel="stylesheet" href="startup/common-files/css/animations.css">
         <link rel="stylesheet" href="static/css/style.css">
         
-        <title></title>
+        <title>CENTRALE MED</title>
     </head>
 
     <body>
