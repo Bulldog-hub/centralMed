@@ -255,22 +255,6 @@
     </div>
     <!--/.container-->
 </section>
-<section class="content-13 subscribe-form bg-turquoise">
-    <div class="container">
-        <div class="row">
-            <form>
-                <div class="col-sm-8">
-                    <input type="text" placeholder="Enter your e-mail" spellcheck="false">
-                </div>
-                <div class="col-sm-4">
-                    <button class="btn btn-large btn-primary" type="submit">
-                        Subscribe now
-                    </button>
-                </div>
-            </form>
-        </div>
-    </div>
-</section>
 <section id="contact" class="contacts-4">
     <div class="container">
         <div class="content">
