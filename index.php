@@ -28,7 +28,7 @@
             <div class="navbar col-sm-12" role="navigation">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle"></button>
-                    <a class="brand" href="#"><img src="startup/common-files/icons/Infinity-Loop@2x.png" width="50" height="50" alt=""> Startup</a>
+                    <a class="brand" href="#"><img src="startup/common-files/icons/Infinity-Loop@2x.png" width="50" height="50" alt=""> CENTRALE MED</a>
                 </div>
                 <div class="collapse navbar-collapse">
                     <ul class="nav">
