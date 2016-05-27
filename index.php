@@ -32,10 +32,11 @@
                 </div>
                 <div class="collapse navbar-collapse">
                     <ul class="nav">
-                        <li><a href="#">Accueil</a></li>
-                        <li><a href="#">Passport</a></li>
-                        <li><a href="#">Equipe</a></li>
-                        <li><a href="#">Contact</a></li>
+                        <li><a href="#home">Accueil</a></li>
+                        <li><a href="#passport">Passport</a></li>
+                        <li><a href="#learning">E-Learning</a></li>
+                        <li><a href="#team">Equipe</a></li>
+                        <li><a href="#contact">Contact</a></li>
                     </ul>
                 </div>
             </div>
@@ -43,7 +44,7 @@
     </div>
     <div class="header-background"></div>
 </header>
-<section class="header-8-sub bg-midnight-blue">
+<section id="home" class="header-8-sub bg-midnight-blue">
     <div class="background">&nbsp;</div>
     <div class="container">
         <div class="row">
@@ -58,7 +59,8 @@
             </div>
         </div>
     </div>
-</section><section class="content-13 subscribe-form bg-turquoise">
+</section>
+<section class="content-13 subscribe-form bg-turquoise">
     <div class="container">
         <div class="row">
             <form>
@@ -73,7 +75,8 @@
             </form>
         </div>
     </div>
-</section><section class="content-4">
+</section>
+<section id="passport" class="content-4">
     <div class="container">
         <h3>We love what we do. This is features of our products</h3>
 
@@ -98,7 +101,8 @@
             </div>
         </div>
     </div>
-</section><section class="content-22 bg-midnight-blue">
+</section>
+<section  class="content-22 bg-midnight-blue">
     <div class="container">
         <div class="row">
             <div class="col-sm-4">
@@ -127,7 +131,8 @@
             </div>
         </div>
     </div>
-</section><section class="content-2">
+</section>
+<section id="learning" class="content-2">
     <div class="container">
         <div class="row">
             <div class="col-sm-6">
@@ -149,7 +154,8 @@
             </div>
         </div>
     </div>
-</section><section class="content-24 bg-midnight-blue">
+</section>
+<section class="content-24 bg-midnight-blue">
     <img class="image" src="startup/common-files/img/content/graph.png" alt="">
 
     <div class="container">
@@ -198,7 +204,8 @@
             </div>
         </div>
     </div>
-</section><section class="projects-3">
+</section>
+<section id="team" class="projects-3">
     <div class="container">
         <h3>We love what we do. <br> This is features of our products</h3>
 
@@ -244,7 +251,8 @@
         </div>
     </div>
     <!--/.container-->
-</section><section class="content-13 subscribe-form bg-turquoise">
+</section>
+<section class="content-13 subscribe-form bg-turquoise">
     <div class="container">
         <div class="row">
             <form>
@@ -259,7 +267,8 @@
             </form>
         </div>
     </div>
-</section><section class="contacts-4">
+</section>
+<section id="contact" class="contacts-4">
     <div class="container">
         <div class="content">
             <div class="social-btns">
