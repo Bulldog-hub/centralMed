@@ -17,6 +17,7 @@
         <!-- end -->
         <link rel="stylesheet" href="startup/common-files/css/animations.css">
         <link rel="stylesheet" href="static/css/style.css">
+
         <link rel="stylesheet" href="static/css/main.css">
         
         <title>Centrale Med</title>
@@ -51,7 +52,7 @@
     <div class="container" >
         <div class="row">
             <div class="col-sm-6 col-sm-offset-3">
-                <h3>Startup Design Framework</h3>
+                <h3>Accéder à votre Dossier Médical Personnalisé</h3>
                 <p class="lead">We’ve created the product that will help your startup to look even better.</p>
             </div>
         </div>
