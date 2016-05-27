@@ -17,12 +17,13 @@
         <!-- end -->
         <link rel="stylesheet" href="startup/common-files/css/animations.css">
         <link rel="stylesheet" href="static/css/style.css">
+        <link rel="stylesheet" href="static/css/main.css">
         
         <title>Centrale Med</title>
     </head>
 
     <body>
-        <div class="page-wrapper"><header class="header-8">
+        <div class="page-wrapper"><header  class="header-8 navbar-fixed-top" >
     <div class="container">
         <div class="row">
             <div class="navbar col-sm-12" role="navigation">
@@ -44,9 +45,10 @@
     </div>
     <div class="header-background"></div>
 </header>
+ 
 <section id="home" class="header-8-sub bg-midnight-blue">
     <div class="background">&nbsp;</div>
-    <div class="container">
+    <div class="container" >
         <div class="row">
             <div class="col-sm-6 col-sm-offset-3">
                 <h3>Startup Design Framework</h3>
