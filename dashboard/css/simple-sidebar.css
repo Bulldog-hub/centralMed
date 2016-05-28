@@ -134,7 +134,7 @@
     list-style: none;
     padding: 5px 10px;
 }
-.widget .table li:nth-child(even) {
+.widget .table:not(.agenda) li:nth-child(even) {
     background: whitesmoke;
 }
 

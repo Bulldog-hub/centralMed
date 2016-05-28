@@ -123,11 +123,11 @@
                             <span class="title"> Agenda médical </span>
                             <i class="fa fa-cog"></i>
                         </div>
-                        <ul class="table">
-                        <li>Renouvellement médication 30 mai 2016</li>
-                        <li>Prise de sang 2 juin 2016</li>
-                        <li>Frottis 12 juin 2016</li>
-                        <li>RDV DR Bammert 16 juin 2016</li>
+                        <ul class="agenda table list-group">
+                        <li class="list-group-item list-group-item-danger">Renouvellement médication <span class="badge">30 mai 2016</span></li>
+                        <li class="list-group-item list-group-item-danger">Prise de sang <span class="badge">2 juin 2016</span></li>
+                        <li class="list-group-item list-group-item-info">Frottis <span class="badge">12 juin 2016</span></li>
+                        <li class="list-group-item list-group-item-info">RDV DR Bammert <span class="badge">16 juin 2016</span></li>
                         <li>Personnel Famille</li>
                         </ul>
                     </div>
