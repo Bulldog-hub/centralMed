@@ -25,12 +25,12 @@
 
     <body>
         <div class="page-wrapper"><header  class="header-8 navbar-fixed-top" >
-    <div class="container">
+    <div class="container-fluid">
         <div class="row">
             <div class="navbar col-sm-12" role="navigation">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle"></button>
-                    <a class="brand" href="#"><img src="startup/common-files/icons/Infinity-Loop@2x.png" width="50" height="50" alt=""> Centrale Med</a>
+                    <a class="brand" href="#"><img src="startup/common-files/img/ban.png" alt=""></a>
                 </div>
                 <div class="collapse navbar-collapse">
                     <ul class="nav">
