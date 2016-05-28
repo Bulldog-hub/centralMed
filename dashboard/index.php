@@ -1,6 +1,6 @@
 <?php include "header.php" ?>
         <!-- Page Content -->
-        <div id="page-content-wrapper">
+        <div>
             <div class="container-fluid xyz">
                 <div class="rubrique row" id="dashboard" >
                     <div class="row">

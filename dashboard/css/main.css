@@ -4,8 +4,6 @@
     display: table;
     table-layout: fixed;
     width: 100%;
-    -webkit-transform: translateY(5px);
-    transform: translateY(5px);
     background: #fff;
     margin-bottom: 0;
 }
@@ -83,4 +81,7 @@
     border-radius: 5px;
 }
 
-
+.disease-info i {
+    float: right;
+    font-size: 2em;
+}
