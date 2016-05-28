@@ -94,48 +94,48 @@
     box-shadow: inset 1px 1px 1px black;
 }
 
-.widget {
-    border-radius: 5px;
+.panel-primary {
+    border: none;
+    box-shadow: 2px 2px 10px grey;
 }
 
-.widget_title {
+.panel-primary .panel-heading {
     background: #1AAAD7;
-    color: white;
-    padding: 2px;
     text-align: center;
-    padding: 5px;
-    border-top-left-radius: 5px;
-    border-top-right-radius: 5px;
 }
 
-.widget_title i:first-child {
+.panel-heading i {
+    font-size: 1.5em;
+}
+.panel-heading i:first-child {
     float: left;
 }
 
-.widget_title i:last-child {
+.panel-heading i:last-child {
     float: right;
 }
 
-.widget_title title {
+.panel-heading .title {
     display: inline-block;
 }
 
-.widget .table {
-    background: white;
-    border-bottom-left-radius: 5px;
-    border-bottom-right-radius: 5px;
-}
-
-.widget .table {
+.panel-primary .panel-body {
     padding: 0;
 }
 
-.widget .table li {
+.panel-primary ul {
+    background: white;
+    margin: 0;
+    padding: 0;
+}
+
+.panel-primary ul li:not(.englobing) {
     list-style: none;
     padding: 5px 10px;
     line-height: 3em;
 }
-.widget .table:not(.agenda) li:nth-child(even) {
+
+.panel-primary ul:not(.agenda) li:nth-child(even) {
     background: whitesmoke;
 }
 
@@ -229,6 +229,7 @@
 
 .badge {
     display: inline;
+    background: #4A476A;
 }
 
 @media(min-width:768px) {
