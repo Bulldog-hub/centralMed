@@ -275,18 +275,15 @@
     <div class="container">
         <div class="content">
             <div class="social-btns">
-                <a href="#">
+                <a href="https://twitter.com/CentraleMed" target="_blank">
                     <div class="fui-twitter"></div>
                     <div class="fui-twitter"></div>
                 </a>
-                <a href="#">
+                <a href="https://www.facebook.com/Central-Med-278978689113161/" target="_blank">
                     <div class="fui-facebook"></div>
                     <div class="fui-facebook"></div>
                 </a>
-                <a href="#">
-                    <div class="fui-vimeo"></div>
-                    <div class="fui-vimeo"></div>
-                </a>
+            
             </div>
             <h3>Get in touch with us</h3>
             <p>As a Harvard professor, he was one of the first to <br class="hidden-phone"> explore the relationship in equilibrium.</p>
