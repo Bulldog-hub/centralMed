@@ -234,7 +234,7 @@
                 <div class="project">
                     <div class="photo-wrapper">
                         <div class="photo"><img src="static/img/team1.jpg" alt=""></div>
-                        <div class="overlay"><span class="fui-eye"></span></div>
+
                     </div>
                     <div class="info">
                         <div class="name">Pallado Sophie</div>
@@ -247,7 +247,6 @@
                 <div class="project">
                     <div class="photo-wrapper">
                         <div class="photo"><img src="static/img/team2.jpg" alt=""></div>
-                        <div class="overlay"><span class="fui-eye"></span></div>
                     </div>
                     <div class="info">
                         <div class="name">
