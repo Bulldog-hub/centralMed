@@ -30,8 +30,12 @@
             <div class="navbar col-sm-12" role="navigation">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle"></button>
+<<<<<<< HEAD
 <!--                    <a class="brand" href="#"><img src="startup/common-files/img/ban.png" alt=""></a>-->
                     <a class="brand" href="#"><img src="static/img/logoHight.png" alt=""></a>
+=======
+                    <a class="brand" href="#"><img src="startup/common-files/img/ban.png" alt=""></a>
+>>>>>>> 33af61a47f49fd418f4aace0ec5cd343f7e290af
                 </div>
                 <div class="collapse navbar-collapse">
                     <ul class="nav">
