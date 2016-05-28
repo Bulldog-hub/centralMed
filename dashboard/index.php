@@ -1,6 +1,6 @@
 <?php include "header.php" ?>
         <!-- Page Content -->
-        <div id="page-content-wrapper">
+
             <div class="container-fluid xyz">
                 <div class="rubrique row" id="dashboard" >
                     <div class="row">
@@ -134,8 +134,7 @@
                                 </div>
                             </div>
             </div>
-        </div>
-        <!-- /#page-content-wrapper -->
+     
 
 
 <?php include "footer.php" ?>

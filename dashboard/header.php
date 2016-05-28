@@ -46,7 +46,7 @@
         <ul class="sidebar-nav nav-pills nav-stacked" id="menu">
             <span class="menu_title">Données personnelles</span>
             <li class="active">
-                <a href="#" class="rubriqueLien" data-rubrique="dashboard"><span class="fa-stack fa-lg pull-left"><i class="fa fa-dashboard fa-stack-1x "></i></span>Tableau de bord</a>
+                <a href="index.php" class=" " data-rubrique="dashboard"><span class="fa-stack fa-lg pull-left"><i class="fa fa-dashboard fa-stack-1x "></i></span>Tableau de bord</a>
             </li>
             <li>
                 <a href="#" class="rubriqueLien" data-rubrique="pathologie"><span class="fa-stack fa-lg pull-left"><i class="fa fa-meh-o fa-stack-1x "></i></span> Pathologies</a>
@@ -58,7 +58,7 @@
                 <a href="#" class="rubriqueLien" data-rubrique="documents"><span class="fa-stack fa-lg pull-left"><i class="fa fa-folder-open fa-stack-1x "></i></span>Documents</a>
             </li>
             <li>
-                <a href="#" class="rubriqueLien" data-rubrique="agenda"><span class="fa-stack fa-lg pull-left"><i class="fa fa-book fa-stack-1x "></i></span>Agenda</a>
+                <a href="agenda.php" class="" data-rubrique="agenda"><span class="fa-stack fa-lg pull-left"><i class="fa fa-book fa-stack-1x "></i></span>Agenda</a>
             </li>
             <li>
                 <a href="#" class="rubriqueLien" data-rubrique="contact"><span class="fa-stack fa-lg pull-left"><i class="fa fa-pencil fa-stack-1x "></i></span>Contact</a>
@@ -86,3 +86,5 @@
             </button>
         </div>
     </div><!-- /#sidebar-wrapper -->
+
+    <div id="page-content-wrapper">
