@@ -175,7 +175,7 @@
     </div>
 </section>
 <section class="content-24 bg-midnight-blue">
-    <img class="image" src="startup/common-files/img/content/graph.png" alt="">
+    <img class="image" src="static/img/stats.png" alt="">
 
     <div class="container">
         <div class="row">
