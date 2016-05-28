@@ -133,6 +133,7 @@
 .widget .table li {
     list-style: none;
     padding: 5px 10px;
+    line-height: 3em;
 }
 .widget .table:not(.agenda) li:nth-child(even) {
     background: whitesmoke;
