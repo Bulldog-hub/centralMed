@@ -80,7 +80,7 @@
             <div class="add_appointment">
                 <button class="btn btn-primary">
                     <i class="fa fa-plus"></i>
-                    Ajouter un RDV
+                    <span class="menu_title">Ajouter un RDV</span>
                 </button>
             </div>
         </div><!-- /#sidebar-wrapper -->

@@ -11,7 +11,7 @@ $("#menu-toggle").click(function(e) {
         $("#brand").toggleClass("toggled-2");
         console.log('tyty');
         $('#menu ul').hide();
-        $('#menu .menu_title').toggle();
+        $('.menu_title').toggle();
         $(this).find('.collapse_icon,.extend_icon').toggle();
     });
 
