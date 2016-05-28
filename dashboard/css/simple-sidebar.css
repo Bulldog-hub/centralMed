@@ -67,12 +67,12 @@
 
 .period li a {
     margin: 10px 5px 0;
-    padding: 2px;
+    padding: 2px 5px;
 }
 
 .period li.active_period a {
     border: 1px solid #1AAAD7;
-    border-radius: 10px;
+    border-radius: 15px;
 }
 
 .search {
@@ -101,6 +101,7 @@
 
 .panel-primary .panel-heading {
     background: #1AAAD7;
+    color: #F4F4F4;
     text-align: center;
 }
 
@@ -109,14 +110,17 @@
 }
 .panel-heading i:first-child {
     float: left;
+    margin: 5px;
 }
 
 .panel-heading i:last-child {
     float: right;
+    margin: 5px;
 }
 
 .panel-heading .title {
     display: inline-block;
+    padding: 5px;
 }
 
 .panel-primary .panel-body {
@@ -131,12 +135,13 @@
 
 .panel-primary ul li:not(.englobing) {
     list-style: none;
-    padding: 5px 10px;
+    padding: 15px 20px;
     line-height: 3em;
+    color: #AAA;
 }
 
 .panel-primary ul:not(.agenda) li:nth-child(even) {
-    background: whitesmoke;
+    background: #F0F0F0;
 }
 
 
@@ -228,6 +233,7 @@
 }
 
 .badge {
+    background: #4A476A;
     display: inline;
     background: #4A476A;
 }
