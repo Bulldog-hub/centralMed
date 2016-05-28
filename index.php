@@ -237,7 +237,7 @@
 
                     </div>
                     <div class="info">
-                        <div class="name">Pallado Sophie</div>
+                        <div class="name"> Sophie Pallado</div>
                         Etudiante en pharmacie
                     </div>
                 </div>
@@ -250,7 +250,7 @@
                     </div>
                     <div class="info">
                         <div class="name">
-                            Pereira Camille
+                             Camille Pereira
                         </div>
                         Etudiante en pharmacie
                     </div>
@@ -260,15 +260,58 @@
             <div class="project-wrapper">
                 <div class="project">
                     <div class="photo-wrapper">
-                        <div class="photo"><img src="startup/common-files/img/projects/img-4.png" alt=""></div>
-                        <div class="overlay"><span class="fui-eye"></span></div>
+                        <div class="photo" style="zoom: 0.4;"><img src="static/img/team3.jpg" alt=""></div>
+
                     </div>
                     <div class="info">
-                        <div class="name">Impressionist UI</div>
-                        Web Development, iOS Design
+                        <div class="name">Olivier Plessis</div>
+                        Web Devellopement, Ux Design
                     </div>
                 </div>
             </div>
+
+        </div>
+        <div class="projects">
+            <div class="project-wrapper">
+                <div class="project">
+                    <div class="photo-wrapper">
+                        <div class="photo" style="zoom: 0.4"><img src="static/img/team4.jpg" alt=""></div>
+
+                    </div>
+                    <div class="info">
+                        <div class="name"> Igor Descayrac</div>
+                        web devellopement
+                    </div>
+                </div>
+            </div>
+
+            <div class="project-wrapper">
+                <div class="project">
+                    <div class="photo-wrapper">
+                        <div class="photo" style="zoom: 0.5"><img src="static/img/team5.jpg" alt=""></div>
+                    </div>
+                    <div class="info">
+                        <div class="name">
+                            christiane kelbe
+                        </div>
+                        Middle office finance
+                    </div>
+                </div>
+            </div>
+
+            <div class="project-wrapper">
+                <div class="project">
+                    <div class="photo-wrapper">
+                        <div class="photo" style="zoom: 0.4;"><img src="" alt=""></div>
+
+                    </div>
+                    <div class="info">
+                        <div class="name">Thomas BAMMERT</div>
+                       Médecin généraliste
+                    </div>
+                </div>
+            </div>
+
         </div>
     </div>
     <!--/.container-->
