@@ -55,7 +55,7 @@
         <div class="row">
             <div class="col-sm-6 col-sm-offset-3">
                 <h3>Accéder à votre Dossier Médical Personnalisé</h3>
-                <p class="lead">Devenez l'acteur principal votre santé en prenant en main votre vie et votre bien être.</p>
+                <p class="lead">Devenez l'acteur principal de votre santé en prenant en main votre vie et votre bien être.</p>
             </div>
         </div>
         <div class="row">
@@ -226,18 +226,19 @@
 </section>
 <section id="team" class="projects-3">
     <div class="container">
-        <h3>We love what we do. <br> This is features of our products</h3>
+        <h3>Nous aimons ce que nous faisons. <br>
+            Ceci est caractéristiques de nos produits</h3>
 
         <div class="projects">
             <div class="project-wrapper">
                 <div class="project">
                     <div class="photo-wrapper">
-                        <div class="photo"><img src="startup/common-files/img/projects/img-2.png" alt=""></div>
+                        <div class="photo"><img src="static/img/team1.jpg" alt=""></div>
                         <div class="overlay"><span class="fui-eye"></span></div>
                     </div>
                     <div class="info">
-                        <div class="name">Flat UI Pro</div>
-                        Web Development, Illustrations
+                        <div class="name">Pallado Sophie</div>
+                        Etudiante en pharmacie
                     </div>
                 </div>
             </div>
@@ -245,12 +246,14 @@
             <div class="project-wrapper">
                 <div class="project">
                     <div class="photo-wrapper">
-                        <div class="photo"><img src="startup/common-files/img/projects/img-3.png" alt=""></div>
+                        <div class="photo"><img src="static/img/team2.jpg" alt=""></div>
                         <div class="overlay"><span class="fui-eye"></span></div>
                     </div>
                     <div class="info">
-                        <div class="name">Startup Kit</div>
-                        Web Development, Web Design
+                        <div class="name">
+                            Pereira Camille
+                        </div>
+                        Etudiante en pharmacie
                     </div>
                 </div>
             </div>
