@@ -1,3 +1,9 @@
 #home{
 	margin-top: 50px;
 }
+
+.subscribe-form .title{
+	font-size: 20px;
+	color: #fff;
+	font-weight: 200;
+}

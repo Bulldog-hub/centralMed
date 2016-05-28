@@ -634,7 +634,7 @@ section * {
 .navbar .navbar-collapse {
   padding-left: 0;
   padding-right: 0;
-  float:left;
+
 }
 .navbar .nav > li {
   float: left;
@@ -866,7 +866,7 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
   margin: -10px 15px 0 0;
 }
 .header-8 .navbar .nav {
-  position: absolute;
+  
   width: 100%;
   height: 0;
   overflow: visible;
@@ -1103,6 +1103,10 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
     width: 100%;
     margin-bottom: 20px;
     text-align: center;
+  }
+
+  .header-8 .navbar .brand{
+    width: 80%;
   }
 }
 /**
@@ -1802,7 +1806,7 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
  * Copntact 4 stylesheet  
  * */
 .contacts-4 {
-  background: #34495e url('../../startup/common-files/img/map-tours.png') 50% 50% no-repeat;
+  background: #34495e url('../../startup/common-files/img/map.jpg') 50% 50% no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;

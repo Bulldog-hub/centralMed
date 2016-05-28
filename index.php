@@ -30,7 +30,8 @@
             <div class="navbar col-sm-12" role="navigation">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle"></button>
-                    <a class="brand" href="#"><img src="startup/common-files/img/ban.png" alt=""></a>
+<!--                    <a class="brand" href="#"><img src="startup/common-files/img/ban.png" alt=""></a>-->
+                    <a class="brand" href="#"><img src="static/img/logoHight.png" alt=""></a>
                 </div>
                 <div class="collapse navbar-collapse">
                     <ul class="nav">
@@ -53,7 +54,7 @@
         <div class="row">
             <div class="col-sm-6 col-sm-offset-3">
                 <h3>Accéder à votre Dossier Médical Personnalisé</h3>
-                <p class="lead">We’ve created the product that will help your startup to look even better.</p>
+                <p class="lead">Devenez l'acteur principal votre santé en prenant en main votre vie et votre bien être.</p>
             </div>
         </div>
         <div class="row">
@@ -66,15 +67,29 @@
 <section class="content-13 subscribe-form bg-turquoise">
     <div class="container">
         <div class="row">
-            <form>
-                <div class="col-sm-8">
-                    <input type="text" placeholder="Enter your e-mail" spellcheck="false">
+        <p class="title">Pour être averti lors du lancement de l'application</p>
+
+
+
+            <form action="//central-med.us13.list-manage.com/subscribe/post?u=a09a6611eb9ab27c941524d27&amp;id=c113aec480" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+
+            <div class="col-sm-8">
+                <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Entrer votre e-mail" spellcheck="false">
+
                 </div>
                 <div class="col-sm-4">
-                    <button class="btn btn-large btn-primary" type="submit">
-                        Subscribe now
+                    <button class="btn btn-large btn-primary" type="submit" value="Subscribe" name="Souscrire" id="mc-embedded-subscribe" >
+                        Souscrire
                     </button>
                 </div>
+                <div id="mce-responses" class="clear">
+                    <div class="response" id="mce-error-response" style="display:none"></div>
+                    <div class="response" id="mce-success-response" style="display:none"></div>
+                </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                    <input type="text" name="b_a09a6611eb9ab27c941524d27_c113aec480" tabindex="-1" value="">
+                </div>
+
             </form>
         </div>
     </div>
@@ -255,6 +270,7 @@
     </div>
     <!--/.container-->
 </section>
+
 <section id="contact" class="contacts-4">
     <div class="container">
         <div class="content">
@@ -269,10 +285,10 @@
                 </a>
             
             </div>
-            <h3>Get in touch with us</h3>
-            <p>As a Harvard professor, he was one of the first to <br class="hidden-phone"> explore the relationship in equilibrium.</p>
+            <h3>Prenez contact avec nous</h3>
+            <p>Vous avez des question concernant le fonctionnement du site <br> ou tout simplement envie de nous rejoindre.</p>
             <div class="links">
-                <a href="#">info@designmodo.com</a>
+                <a href="mailto:centralmedcontact@gmail.com?subject=Contact depuis votre site web">info@central-med.co</a>
             </div>
         </div>
     </div>
@@ -293,4 +309,6 @@
             <script src="startup/common-files/js/startup-kit.js"></script>
         </div>
     </body>
+    <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+    <!--End mc_embed_signup-->
 </html>
