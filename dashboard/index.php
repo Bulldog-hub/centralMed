@@ -12,6 +12,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/simple-sidebar.css" rel="stylesheet">
     <link href="font-awesome-4.3.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="shortcut icon" href="../favicon.ico">
 </head>
 
 <body>
