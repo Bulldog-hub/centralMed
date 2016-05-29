@@ -10,6 +10,16 @@
 //   displayRubrique($(this).data('rubrique'));
 // });
 
+$(".period li").click(function(e) {
+  $(".active_period").removeClass("active_period");
+  $(this).addClass("active_period");
+
+  var date = new Date();
+  date.setTime(date.getTime() + (1 * 60 * 60 * 1000));
+  expires = "; expires=" + date.toGMTString();
+  document.cookie = "period=" + encodeURIComponent($(this).data('period')) + expires + "; path=/";
+});
+
 $(document).ready(function(){
 
   // Variables

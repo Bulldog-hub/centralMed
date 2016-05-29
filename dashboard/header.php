@@ -35,9 +35,9 @@
     </div><!-- navbar-header-->
 
     <ul class="period nav nav-pills hidden-xs">
-        <li class="active_period"><a href="#">Derniers jours</a></li>
-        <li class=""><a href="#">Mois en cours</a></li>
-        <li class=""><a href="#">Année en cours</a></li>
+        <li class="<? if($_COOKIE['period'] == 'days' || empty($_COOKIE['period'])): ?>active_period<? endif ?>" data-period="days"><a href="#">Derniers jours</a></li>
+        <li class="<? if($_COOKIE['period'] == 'month'): ?>active_period<? endif ?>" data-period="month"><a href="#">Mois en cours</a></li>
+        <li class="<? if($_COOKIE['period'] == 'year'): ?>active_period<? endif ?>" data-period="year"><a href="#">Année en cours</a></li>
     </ul>
     <img src="http://66.media.tumblr.com/avatar_369b115beb6e_128.png"
          alt="" class="avatar">

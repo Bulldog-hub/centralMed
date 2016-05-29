@@ -68,11 +68,12 @@
 .period li a {
     margin: 10px 5px 0;
     padding: 2px 5px;
+    border-radius: 15px;
+    border: 1px solid transparent;
 }
 
 .period li.active_period a {
-    border: 1px solid #1AAAD7;
-    border-radius: 15px;
+    border-color: #1AAAD7;
 }
 
 .search {
