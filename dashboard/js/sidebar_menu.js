@@ -3,8 +3,8 @@ $("#menu-toggle").click(function(e) {
         $("#wrapper").toggleClass("toggled");
         $("#brand").toggleClass("toggled");
     });
-     $("#menu-toggle-2").click(function(e) {
-      console.log('toto');
+     $("[id^='menu-toggle']").click(function(e) {
+        console.log('toto');
         e.preventDefault();
         console.log('tutu');
         $("#wrapper").toggleClass("toggled-2");
@@ -12,7 +12,7 @@ $("#menu-toggle").click(function(e) {
         console.log('tyty');
         $('#menu ul').hide();
         $('.menu_title').toggle();
-        $(this).find('.collapse_icon,.extend_icon').toggle();
+        $(this).parent().find('.collapse_icon,.extend_icon').toggle();
     });
 
      function initMenu() {

@@ -1,4 +1,48 @@
+#brand {
+    background: #1AAAD7;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
 
+#brand h1 {
+    display: inline-block;
+    margin: 0;
+    vertical-align: bottom;
+}
+
+@media(max-width:767px) {
+    #brand .brand {
+        margin-top: 10px;
+    }
+}
+@media(min-width:768px) {
+    #brand h1 {
+        display: none;
+    }
+}
+
+.navbar {
+    border: none;
+}
+
+.navbar-toggle {
+    background: #46BCE2;
+    color: white;
+    margin: 0;
+    border: none;
+    border-radius: 0;
+    height: 50px;
+    width: 50px;
+    padding: 0;
+}
+
+.navbar-default .navbar-toggle:active,
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+    background: #46BCE2;
+}
 
 .tabs {
     display: table;

@@ -66,7 +66,6 @@
                                 <ul>
                                     <li>Pneumopathie</li>
                                     <li>Appendicectomie</li>
-                                    <li>Varicelle d'Arthur Février 2016</li>
                                 </ul>
                             </div>
                         </div>
